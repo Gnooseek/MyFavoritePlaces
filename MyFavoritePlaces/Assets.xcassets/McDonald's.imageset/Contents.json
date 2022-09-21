@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "kisspng-ronald-mcdonald-mcdonalds-logo-golden-arches-resta-mcdonalds-logo-5a7550d69d1379.7385426715176378466434.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "kisspng-ronald-mcdonald-mcdonalds-logo-golden-arches-resta-mcdonalds-logo-5a7550d69d1379.7385426715176378466434-2.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "kisspng-ronald-mcdonald-mcdonalds-logo-golden-arches-resta-mcdonalds-logo-5a7550d69d1379.7385426715176378466434-1.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
